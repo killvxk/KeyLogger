@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Mohammed El Mounjide <elmounjide.mohammed@gmail.com>
+Main-Class: com.project.m2ssi.keylogger.Keylogger
+Class-Path: lib/JNativeHook.jar lib/litelogger.jar lib/junit.jar lib/hamcrest-all-1.3.jar
